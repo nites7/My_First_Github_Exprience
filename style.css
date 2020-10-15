@@ -12,6 +12,7 @@ nav.navbar{
         max-width: 600px;
         margin: auto;
         position: fixed; top: 0px; left: 0px;
+        color: inherit;
     }
 }
 ul.header{
@@ -30,6 +31,7 @@ a{
 }
 a:hover{
     text-decoration: underline;
+    color: silver;
 }
 #first{
     margin-top: 35px;
